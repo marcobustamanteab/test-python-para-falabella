@@ -32,4 +32,4 @@ if find_by_value in list(patentes.values()):
 	id = list(patentes.keys())[index]
 	print("El ID es:", id)
 else:
-	print("No se encuentran registros de la patente...")
+	print("No se encuentran registros de la patente....")
