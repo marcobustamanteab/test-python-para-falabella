@@ -1,5 +1,4 @@
 import string
-from flask import Flask
 
 """
 repo: https://github.com/marcobustamanteab/test-python-para-falabella.git
